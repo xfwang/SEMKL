@@ -1,4 +1,10 @@
 
+<!doctype html>
+<html>
+
+
+
+
 <head>
 ...
     <script type="text/javascript"
@@ -17,3 +23,4 @@ Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block
 
 
 
+</html>
